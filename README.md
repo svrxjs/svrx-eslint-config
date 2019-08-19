@@ -1,5 +1,7 @@
 # @svrx/eslint-config
 
+[![npm](https://img.shields.io/npm/v/@svrx/eslint-config.svg?style=flat-square)](https://www.npmjs.com/package/@svrx/eslint-config)
+
 ESLint config for svrx.
 
 
