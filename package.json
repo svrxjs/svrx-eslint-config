@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/x-orpheus/svrx-eslint-config.git"
+    "url": "git+https://github.com/svrxjs/svrx-eslint-config.git"
   },
   "keywords": [
     "svrx",
@@ -14,9 +14,9 @@
   "author": "Cody Chan <int64ago@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/x-orpheus/svrx-eslint-config/issues"
+    "url": "https://github.com/svrxjs/svrx-eslint-config/issues"
   },
-  "homepage": "https://github.com/x-orpheus/svrx-eslint-config#readme",
+  "homepage": "https://github.com/svrxjs/svrx-eslint-config#readme",
   "dependencies": {
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2"
